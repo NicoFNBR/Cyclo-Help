@@ -207,3 +207,7 @@ Command: `+ping` \
 Returns latency and API latency
 
 And many more, you can also use the +help command to gett a full list of commands.
+
+Thanks to [Tornado](https://github.com/Im2rnado/) Who helped a ton!
+
+**This project is NOT affiliated, authorized, endorsed by, or in any way related to Epic Games Inc.**
