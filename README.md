@@ -33,22 +33,22 @@ The standard prefix for Cyclo is ` + `
 
 # Account Commands
 
-## Login ## 
+### Login ###
 Command: `+login` \
 Aliases: `+i`, `+signin` \
 Logs into your Epic Games account using Device Code
 
-## Logout ##
+### Logout ###
 Command: `+logout` \
 Aliases: `+o`, `+signout` \
 Logs out of your Epic Games account 
 
-## Delete Saved Account ##
+### Delete Saved Account ###
 Command: `+deletesaved` \
 Aliases: `+del`, `+removesaved`, `+deletesavedlogin` \
 Deletes your saved Fortnite account from the bot's database
 
-## Claim 2FA Reward ##
+### Claim 2FA Reward ###
 Command: `+2fa` \
 Aliases: `+mfa`, `+boogie` \
 Claims the Boogie Down emote on your account. This is needed to be able to gift.\
@@ -56,152 +56,152 @@ You need to have to 2FA enabled on Epic Games first
 
 # Fortnite #
 
-## Buy ##
+### Buy ###
 Command: `+buy` \
 Aliases: `+b`, `+purchase` \
 Buys an item from the shop
 
-## Gift ##
+### Gift ###
 Command: `+gift` \
 Aliases: `+g` \
 Gifts an item from the shop
 
-## Vbucks Platform ##
+### Vbucks Platform ###
 Command: `+platform` \
 Aliases: `+plt`, `+vp`, `+vbucksplatform` \
 Usage: `<WeGame|EpicPCKorea|Epic|EpicPC|EpicAndroid|PSN|Live|IOSAppStore|Nintendo|Samsung|Shared>` \
 Changes your V-Bucks Platform
 
-## Gift Message ##
+### Gift Message ###
 Command: `+giftmessage` \
 Aliases: `+gm`, `+giftm` \
 Changes your Gift Message
 
-## Gift Box ##
+### Gift Box ###
 Command: `+giftbox` \
 Aliases: `+gb`, `+giftb` \
 Changes your Gift Box
 
-## Receive Gifts ##
+### Receive Gifts ###
 Command: `+receivegifts` \
 Aliases: `+giftsreceive`, `+receiveg` \
 Changes your receiving gifts status
 
-## Purchase Battle Pass ##
+### Purchase Battle Pass ###
 Command: `+battlepass` \
 Aliases: `+bp` \
 Buys the Battle Pass
 
-## Purchase Battle Bundle ##
+### Purchase Battle Bundle ###
 Command: `+battlebundle` \
 Aliases: `+bd` \
 Buys the Battle Bundle
 
-## Locker Image ##
+### Locker Image ###
 Command: `+locker` \
 Returns your locker in a good looking image
 
-## Locker List ##
+### Locker List ###
 Command: `+locker list` \
 Returns your skin names in a message
 
-## Support a Creator Code ##
+### Support a Creator Code ###
 Command: `+sac` \
 Returns your current SAC or sets your desired code
 
-## Gift History ##
+### Gift History ###
 Command: `+gifthistory` \
 Aliases: `+giftbook`, `+gifth` \
 Returns your gift history
 
 # Info #
 
-## Shop ##
+### Shop ###
 Command: `+shop` \
 Aliases: `+store`, `+st` \
 Returns the item shop
 
-## Shop Image ##
+### Shop Image ###
 Command: `+shopimage` \
 Aliases: `+sm`, `+sp`, `+si`, `+shoppic` \
 Returns the item shop in an image
 
-## Check Code ##
+### Check Code ###
 Command: `+checkcode` \
 Aliases: `+cc`, `+ccode`, `+checkc` \
 Checks Validity of Epic Games Code
 
-## Fishing Book ##
+### Fishing Book ###
 Command: `+fish` \
 Returns your fishing book
 
 # Party Hub and Friends #
 
-## Party Hub Avatar ##
+### Party Hub Avatar ###
 Command: `+avatar` \
 Returns your current Party Hub avatar
 
-## Friends List ##
+### Friends List ###
 Command: `+friend list` \
 Aliases: `+f list` \
 Returns your friends list
 
-## Friends Add/Remove ##
+### Friends Add/Remove ###
 Command: `+friend add/remove` \
 Aliases: `+f add` \
 Adds a friend
 
 # Save The World #
 
-## Claim Daily ##
+### Claim Daily ###
 Command: `+daily` \
 Aliases: `+claim`, `+stw` \
 Claims your daily STW reward
 
-## Homebase Name ##
+### Homebase Name ###
 Command: `+homebase` \
 Aliases: `+homebasename` \
 Changes your STW homebase name
 
-## STW Shop ## 
+### STW Shop ### 
 Command: `+stwshop` \
 Aliases: `+stwstore` \
 Gets the current STW Shop
 
 # Creative #
 
-## Get Favorite Islands ##
+### Get Favorite Islands ###
 Command: `+islands` \
 Aliases: `+island` \
 Gets all favorited islands
 
-## Add Favorite Island ##
+### Add Favorite Island ###
 Command: `+islands add` \
 Adds a favorited island
 
 # Others #
 
-## Report Bug ##
+### Report Bug ###
 Command: `+report` \
 Report any bug encountered
 
-## Suggest ##
+### Suggest ###
 Command: `+suggest` \
 Suggests an idea
 
-## Drop ##
+### Drop ###
 Command: `+drop` \
 Random Drop Spot
 
-## NPC ## 
+### NPC ### 
 Command: `+npc` \
 Returns NPC's on the map!
 
-## News ##
+### News ###
 Command `+news` \
 Returns BR, STW and Creative News
 
-## Ping ##
+### Ping ###
 Command: `+ping` \
 Returns latency and API latency
 
