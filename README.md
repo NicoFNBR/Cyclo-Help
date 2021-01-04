@@ -69,7 +69,7 @@ Gifts an item from the shop
 ## Vbucks Platform ##
 Command: `+platform` \
 Aliases: `+plt`, `+vp`, `+vbucksplatform` \
-Usage: <WeGame|EpicPCKorea|Epic|EpicPC|EpicAndroid|PSN|Live|IOSAppStore|Nintendo|Samsung|Shared> \
+Usage: `<WeGame|EpicPCKorea|Epic|EpicPC|EpicAndroid|PSN|Live|IOSAppStore|Nintendo|Samsung|Shared>` \
 Changes your V-Bucks Platform
 
 ## Gift Message ##
